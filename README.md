@@ -31,4 +31,6 @@ img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gi
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushnikam&show_icons=true&locale=en" alt="aayushnikam" /></p>
 
+<p>&nbsp;<img align="center" src="[https://github-readme-stats.vercel.app/api?username=aayushnikam&show_icons=true&locale=en](https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/book.gif)" alt="aayushnikam" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushnikam&" alt="aayushnikam" /></p>
